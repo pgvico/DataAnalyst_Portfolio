@@ -6,11 +6,13 @@ Here's a brief overview of the projects included in this portfolio:
 - **Project 1**: BMW dataset. EDA + Visualization
 - **Project 2**: Model Tournament for customers dataset (Soon...)
 - **Project 3**: Multivariate Time Series
-- **Project 4**: CIFAR10 Neural Network (Soon...)
+- **Project 4**: CIFAR10 Neural Network (language: Spanish)
 - **Project 5**: Final Project for my Data Science Master (Soon...)
+- **Project 6**: Clean data table and answer business questions (language: Spanish) (Soon...)
 
 ## Technologies and Tools
 The projects in this portfolio were developed using various technologies and tools, including:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn...)
 - Power BI (Desktop)
 - Jupyter Notebook
+- SQL (MySQL)
