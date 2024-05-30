@@ -5,7 +5,7 @@ These are the data analysis projects that showcase my academically acquired skil
 Here's a brief overview of the projects included in this portfolio:
 - **Project 1**: BMW dataset. EDA + Visualization
 - **Project 2**: Model Tournament for customers dataset (Soon...)
-- **Project 3**: Multivariate Time Series (Soon...)
+- **Project 3**: Multivariate Time Series
 - **Project 4**: CIFAR10 Neural Network (Soon...)
 - **Project 5**: Final Project for my Data Science Master (Soon...)
 
